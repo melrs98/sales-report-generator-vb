@@ -1,0 +1,13 @@
+C:\Users\pcadmin\source\repos\ReporteVentas\ReporteVentas\bin\Debug\ReporteVentas.exe.config
+C:\Users\pcadmin\source\repos\ReporteVentas\ReporteVentas\bin\Debug\ReporteVentas.exe
+C:\Users\pcadmin\source\repos\ReporteVentas\ReporteVentas\bin\Debug\ReporteVentas.pdb
+C:\Users\pcadmin\source\repos\ReporteVentas\ReporteVentas\bin\Debug\ReporteVentas.xml
+C:\Users\pcadmin\source\repos\ReporteVentas\ReporteVentas\obj\Debug\ReporteVentas.vbproj.AssemblyReference.cache
+C:\Users\pcadmin\source\repos\ReporteVentas\ReporteVentas\obj\Debug\ReporteVentas.Form1.resources
+C:\Users\pcadmin\source\repos\ReporteVentas\ReporteVentas\obj\Debug\ReporteVentas.Resources.resources
+C:\Users\pcadmin\source\repos\ReporteVentas\ReporteVentas\obj\Debug\ReporteVentas.vbproj.GenerateResource.cache
+C:\Users\pcadmin\source\repos\ReporteVentas\ReporteVentas\obj\Debug\ReporteVentas.vbproj.CoreCompileInputs.cache
+C:\Users\pcadmin\source\repos\ReporteVentas\ReporteVentas\obj\Debug\ReporteVentas.exe
+C:\Users\pcadmin\source\repos\ReporteVentas\ReporteVentas\obj\Debug\ReporteVentas.xml
+C:\Users\pcadmin\source\repos\ReporteVentas\ReporteVentas\obj\Debug\ReporteVentas.pdb
+C:\Users\pcadmin\source\repos\ReporteVentas\ReporteVentas\obj\Debug\ReporteVentas.exe.config
